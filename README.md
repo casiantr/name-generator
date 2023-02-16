@@ -1,4 +1,4 @@
-## An small, lightweight, quick name generator 
+## An small, lightweight, quick, name generator 
 
 ## Steps for installing :
 
